@@ -7,6 +7,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, world2!" << endl;
+    cout << "Hello, World C++ Language!" << endl;
     return 0;
 }
